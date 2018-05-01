@@ -1,7 +1,10 @@
 
-    
+# .*.*.*.*.*.*.*.*.*.*.*.*.*.*
+  
+# tinyurl.com/bitsytarot
+   
 ![](img.png)
-    
+   
     
 **make a bitsy game:**  
 **[http://ledoux.io/bitsy/editor.html](http://ledoux.io/bitsy/editor.html)**
@@ -72,6 +75,9 @@ Sehr gute Sammlung an javascript Hacks
 Kleiner Artikel über queeres reclaiming und Ästhetiken im Tarot
     
     
+----
+  
+*made with love by [krisekrise & voec](http://triage.itch.io)*
     
     
 <style>
