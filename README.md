@@ -1,7 +1,7 @@
 
 
-### make a bitsy game:
-### http://ledoux.io/bitsy/editor.html
+** make a bitsy game: **
+** (http://ledoux.io/bitsy/editor.html) **
 
   
 # bitsy guides
