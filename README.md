@@ -50,6 +50,9 @@ Ein paar Tricks und Hacks für eure Bitsy Games, z.B. wie man Musik hinzufügt
 https://ruin.itch.io/image-to-bitsy
 Bilddateien in Bitsy Rooms konvertieren, super nützlich!
 
+https://sarahgould.github.io/palettsy/
+Farbpaletten Generator
+
 https://github.com/seleb/bitsy-hacks
 Sehr gute Sammlung an javascript Hacks
 
