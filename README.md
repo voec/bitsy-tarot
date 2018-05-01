@@ -1,8 +1,12 @@
 
-
-**make a bitsy game:**
+  
+  
+  
+**make a bitsy game:**  
 **[http://ledoux.io/bitsy/editor.html](http://ledoux.io/bitsy/editor.html)**
-
+  
+  
+  
   
 # bitsy guides
 
@@ -13,6 +17,7 @@ Kleines Intro zum Bitsy Editor
 Fortgeschrittenes Tutorial zu Variablen
 
   
+  
 # spiele hochladen
 
 [https://itch.io](https://itch.io)  
@@ -20,6 +25,7 @@ Ein Portal bei dem man Spiele/Programme/Comics etcetc hochladen kann, kostenlose
 
 Alternativ könnt ihr eure Bitsy .html Datei auch einfach auf eure Seite/blog/tumblr hochladen, oder einfach per mail verschicken
 
+  
   
 # bitsy community
 
@@ -32,6 +38,7 @@ tweeter auf twitter, #bitsy #bitsyjam
 [https://ledoux.itch.io/bitsy](https://ledoux.itch.io/bitsy)  
 Bitsy auf itch.io -- hier finden auch monatliche mini gamejams statt, bei denen jede*r mitmachen kann!
 
+  
   
 # mehr bitsy games
 
@@ -56,6 +63,7 @@ Farbpaletten Generator
 [https://github.com/seleb/bitsy-hacks](https://github.com/seleb/bitsy-hacks)  
 Sehr gute Sammlung an javascript Hacks
 
+  
   
 # tarot tarot tarot
 
