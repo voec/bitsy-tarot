@@ -52,11 +52,28 @@ Experimental games made using the Bitsy engine
 [https://itch.io/search?q=bitsy](https://itch.io/search?q=bitsy)  
 Alle Bitsy Games, die es auf itch.io gibt
 
+[https://discojill.itch.io/his-only-love](https://discojill.itch.io/his-only-love)
+
+[https://mozz.itch.io/finalohno](https://mozz.itch.io/finalohno)
+
+[https://yellow-attic.itch.io/a-captains-lonely-60-days](https://yellow-attic.itch.io/a-captains-lonely-60-days)
+
+[https://triage.itch.io/waking-up-while-the-sun-sets](https://triage.itch.io/waking-up-while-the-sun-sets)
+
+[https://hyperstructure.itch.io/a-secret-bitsy-jam](https://hyperstructure.itch.io/a-secret-bitsy-jam)
+
+[https://wjhollyart.itch.io/bric-a-brac-shop](https://wjhollyart.itch.io/bric-a-brac-shop)
+
+[https://southtonk.itch.io/this-way-here](https://southtonk.itch.io/this-way-here)
+
     
 # advanced bitsy (hacks und tools)
 
 [http://www.clairemorleyart.com/bitsy-extras](http://www.clairemorleyart.com/bitsy-extras)  
 Ein paar Tricks und Hacks für eure Bitsy Games, z.B. wie man Musik hinzufügt
+
+https://ayolland.github.io/borksy/
+Borksy hacking tool um javascript in euer Spiel einzufügen
 
 [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)  
 Bilddateien in Bitsy Rooms konvertieren, super nützlich!
