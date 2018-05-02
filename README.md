@@ -1,5 +1,5 @@
 
-# .*.*.*.*.*.*.*.*.*.*.*.*.*.*
+
   
 # tinyurl.com/bitsytarot
    
@@ -69,10 +69,13 @@ Sehr gute Sammlung an javascript Hacks
 
     
     
-# tarot tarot tarot
+# tarot & colossal cave
 
 [https://splinternews.com/how-these-queer-artists-are-reinventing-tarot-cards-1793864153](https://splinternews.com/how-these-queer-artists-are-reinventing-tarot-cards-1793864153)  
 Kleiner Artikel über queeres reclaiming und Ästhetiken im Tarot
+
+[http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html](http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html)
+Spannender Text zu Colossal Cave Adventure und dem Bezug zu den Mammoth Cave Expeditionen
     
     
 ----
