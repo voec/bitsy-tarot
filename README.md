@@ -74,7 +74,11 @@ Alle Bitsy Games, die es auf itch.io gibt
 # advanced bitsy (hacks und tools)
 
 [http://www.clairemorleyart.com/bitsy-extras](http://www.clairemorleyart.com/bitsy-extras)  
-Ein paar Tricks und Hacks für eure Bitsy Games, z.B. wie man Musik hinzufügt
+Ein paar Tricks und Hacks für eure Bitsy Games
+
+[https://itch.io/post/284525](https://itch.io/post/284525)
+Eigene Musik in euer Game einbauen.  
+Das wichtigste ist diese Zeile: *<audio src="sound.wav" autoplay loop display="none">*  
 
 [https://ayolland.github.io/borksy/](https://ayolland.github.io/borksy/)  
 Borksy hacking tool um javascript in euer Spiel einzufügen
