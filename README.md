@@ -2,6 +2,8 @@
 
   
 # tinyurl.com/bitsytarot
+
+# schickt mir eure games an voec@posteo.net
    
 ![](img.png)
    
