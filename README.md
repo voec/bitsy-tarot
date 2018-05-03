@@ -62,6 +62,8 @@ Alle Bitsy Games, die es auf itch.io gibt
 
 [https://triage.itch.io/waking-up-while-the-sun-sets](https://triage.itch.io/waking-up-while-the-sun-sets)
 
+[https://claire1605.itch.io/limbo-train](https://claire1605.itch.io/limbo-train)
+
 [https://hyperstructure.itch.io/a-secret-bitsy-jam](https://hyperstructure.itch.io/a-secret-bitsy-jam)
 
 [https://wjhollyart.itch.io/bric-a-brac-shop](https://wjhollyart.itch.io/bric-a-brac-shop)
@@ -74,7 +76,7 @@ Alle Bitsy Games, die es auf itch.io gibt
 [http://www.clairemorleyart.com/bitsy-extras](http://www.clairemorleyart.com/bitsy-extras)  
 Ein paar Tricks und Hacks für eure Bitsy Games, z.B. wie man Musik hinzufügt
 
-[https://ayolland.github.io/borksy/](https://ayolland.github.io/borksy/)
+[https://ayolland.github.io/borksy/](https://ayolland.github.io/borksy/)  
 Borksy hacking tool um javascript in euer Spiel einzufügen
 
 [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)  
@@ -93,7 +95,7 @@ Sehr gute Sammlung an javascript Hacks
 [https://splinternews.com/how-these-queer-artists-are-reinventing-tarot-cards-1793864153](https://splinternews.com/how-these-queer-artists-are-reinventing-tarot-cards-1793864153)  
 Kleiner Artikel über queeres reclaiming und Ästhetiken im Tarot
 
-[http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html](http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html)
+[http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html](http://www.digitalhumanities.org/dhq/vol/1/2/000009/000009.html)  
 Spannender Text zu Colossal Cave Adventure und dem Bezug zu den Mammoth Cave Expeditionen
     
     
